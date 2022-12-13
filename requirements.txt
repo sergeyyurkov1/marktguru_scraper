@@ -6,6 +6,5 @@ diskcache
 dash[diskcache]
 flask
 dash-bootstrap-components
-auto-py-to-exe
 beautifulsoup4
 html5lib
